@@ -8,7 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-//        Arithmetic load = new Arithmetic("test-cases.txt");
+        System.out.println( "Yandex Allure test" );
     }
 }
